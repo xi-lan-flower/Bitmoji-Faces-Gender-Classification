@@ -25,7 +25,7 @@
 
 ### 相关链接
 
-- 【数据集】
+- [【数据集】](https://drive.google.com/file/d/1atMwmdOJe_fqG8Tyg5eqxZ-iDyPxDJOR/view?usp=sharing)
 
 - [【竞赛链接】](https://www.kaggle.com/competitions/bitmoji-faces-gender-recognition)
 
